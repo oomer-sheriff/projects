@@ -1,7 +1,7 @@
 import requests as rq
 import json
 import openai
-openai.api_key ="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"
+openai.api_key ="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"
 lis=[]
 print("X*************************************************************************************************X")
 print("X                         Welcome TO the ChATBot                                                  X")
